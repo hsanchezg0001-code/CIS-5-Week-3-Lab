@@ -10,7 +10,7 @@
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
 
-**Your demo:** _add your link here_
+**Your demo:** _[my link](https://youtu.be/mMH7ZiTmERI)_
 
 
 ## Scenario
@@ -39,8 +39,8 @@ VS 2022 · **GitHub Codespaces** · Replit · library machines
 ## Sample output
 ```
 === About me ===
-Name: Sam Rivera
-Age: 19
+Name: Herberth Sanchez-Gomez
+Age: 24
 Height (m): 1.72
 Initial: S
 Student: 1
